@@ -1,6 +1,6 @@
 x=0
 
-echo "BIG DICK SANCHEZ"
+echo "great idea"
 echo
 
 if [ $x -eq 0 ]
